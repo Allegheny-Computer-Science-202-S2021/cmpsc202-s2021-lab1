@@ -1,0 +1,3 @@
+-----------------------------------------------
+Another important part of algorithm development is to develop thinking skills. By now, we developed one such application in the diurnal range. The key point in diurnal range calculation is computing the difference between the maximum and minimum from a list of values. Think and come up with an idea to propose a different application where finding such a difference is useful. The new idea should enrich and enhance what had been developed already. Include a summary of one or more ideas in the space provided below. 
+-----------------------------------------------
